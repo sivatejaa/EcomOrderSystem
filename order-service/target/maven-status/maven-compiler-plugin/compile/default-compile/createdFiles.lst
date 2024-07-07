@@ -1,0 +1,7 @@
+myproject/orderservice/orderservice/OrderServiceApplication.class
+myproject/orderservice/orderservice/controller/OrderController.class
+myproject/orderservice/orderservice/repository/OrderRepository.class
+myproject/orderservice/orderservice/service/OrderService.class
+myproject/orderservice/orderservice/model/Order.class
+myproject/orderservice/orderservice/client/InventoryClient.class
+myproject/orderservice/orderservice/dto/OrderRequest.class

@@ -1,0 +1,7 @@
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/order-service/src/main/java/myproject/orderservice/orderservice/controller/OrderController.java
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/order-service/src/main/java/myproject/orderservice/orderservice/repository/OrderRepository.java
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/order-service/src/main/java/myproject/orderservice/orderservice/service/OrderService.java
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/order-service/src/main/java/myproject/orderservice/orderservice/OrderServiceApplication.java
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/order-service/src/main/java/myproject/orderservice/orderservice/model/Order.java
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/order-service/src/main/java/myproject/orderservice/orderservice/client/InventoryClient.java
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/order-service/src/main/java/myproject/orderservice/orderservice/dto/OrderRequest.java

@@ -1,0 +1,6 @@
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/inventory-service/src/main/java/com/programmingtechie/inventoryservice/dto/InventoryResponse.java
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/inventory-service/src/main/java/com/programmingtechie/inventoryservice/InventoryServiceApplication.java
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/inventory-service/src/main/java/com/programmingtechie/inventoryservice/controller/InventoryController.java
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/inventory-service/src/main/java/com/programmingtechie/inventoryservice/repository/InventoryRepository.java
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/inventory-service/src/main/java/com/programmingtechie/inventoryservice/model/Inventory.java
+/Users/teja/Documents/MyProject/spring-boot-microservices-initial-setup/inventory-service/src/main/java/com/programmingtechie/inventoryservice/service/InventoryService.java
